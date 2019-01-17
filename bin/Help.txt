@@ -1,0 +1,13 @@
+<center><b>Help</b></center>
+- Use left-click to place an object and right click to remove one
+
+- Use the number keys to select a block:
+<b>1</b> - Sets to normal tile
+<b>2</b> - Sets to tile with extra bounce
+
+-Use <b>CTRL + S</b> to save a board using the prompt
+-Use <b>CTRL + L</b> to load a board using the prompt
+
+- Objects will be placed in divisions of 8
+
+- Resize will resize to a number divisable by 8
